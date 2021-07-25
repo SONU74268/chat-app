@@ -40,7 +40,7 @@ input {
 button {
     cursor: pointer;
     padding: 12px;
-    background: #7C5CBF;
+    background: #9ce77e;
     border: none;
     color: white;
     font-size: 16px;
@@ -53,7 +53,7 @@ button:hover {
 
 button:disabled {
     cursor: default;
-    background: #7c5cbf94;
+    background: #e68167ce;
 }
 
 /* Join Page Styles */
@@ -130,7 +130,7 @@ button:disabled {
 }
 
 .message a {
-    color: #0070CC;
+    color: #b094cfe8;
 }
 
 /* Message Composition Styles */
